@@ -21,7 +21,7 @@ path2 = 'C:\\Users\\86518\\Desktop\\lianghua\\'
 
 #使用个人Tushare code
 mytoken = '*****'
-mytoken = '54e8847b4a364b631a237dd201fbac19dc2ca7e865a2a6e2397bde2d'
+
 capacity=100000
 data_list=[]
 vol_list=[]
